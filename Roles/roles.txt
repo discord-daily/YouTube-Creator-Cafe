@@ -1,0 +1,9 @@
+_Do you have over 100 subscribers?__
+We have subscriber roles. Use the command `yt profile setup` in #🤖〡bots to have our YouTube Bot help you link your profile. It will automatically give you your corresponding subscriber role! :YTviews:
+
+__React below with the corresponding emojis, to get the roles!__
+`📣` | @Alerts | Notified for news and updates, fresh of the press! > #📰〡news
+`🎉` | @Giveaway | Get notified to win some 'swaggerific' prizes! > #🎉〡giveaways
+`🎮` | @Events | Compete with fellow YouTubers in our frequent events! > #🎮〡events
+`💪` | @Motivation | #MondayMotivation for you to keep working hard! > #💪〡motivation
+`🚨` | @Growth 🚨 | Daily growth raids to help you grow your channel > #🚨〡growth
